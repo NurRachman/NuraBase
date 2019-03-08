@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "808998780560",
+    "firebase_url": "https://nurabase.firebaseio.com",
+    "project_id": "nurabase",
+    "storage_bucket": "nurabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808998780560:android:51fbba23904b5993",
+        "android_client_info": {
+          "package_name": "com.example.nurabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808998780560-61avnk7kp25up97a8l864ulj5lkqqmag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nurabase",
+            "certificate_hash": "fb119e6f4090637c7f168d7d3fa601c8c9d8d2ec"
+          }
+        },
+        {
+          "client_id": "808998780560-qu8uqtkqc3isireo6cij3ds5859u9k5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClHyUGJlTNHt4oS2XiG7o236UwFlZJ3d0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808998780560-qu8uqtkqc3isireo6cij3ds5859u9k5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
